@@ -1,0 +1,5 @@
+com\jurecki\sfgpetclinic\model\Pet.class
+com\jurecki\sfgpetclinic\model\PetType.class
+com\jurecki\sfgpetclinic\model\Vet.class
+com\jurecki\sfgpetclinic\model\Owner.class
+com\jurecki\sfgpetclinic\model\Person.class
