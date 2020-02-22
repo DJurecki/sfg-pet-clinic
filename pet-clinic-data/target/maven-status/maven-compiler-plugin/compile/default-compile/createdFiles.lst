@@ -1,5 +1,14 @@
-com\jurecki\sfgpetclinic\model\Pet.class
-com\jurecki\sfgpetclinic\model\PetType.class
+com\jurecki\sfgpetclinic\services\OwnerService.class
 com\jurecki\sfgpetclinic\model\Vet.class
 com\jurecki\sfgpetclinic\model\Owner.class
 com\jurecki\sfgpetclinic\model\Person.class
+com\jurecki\sfgpetclinic\model\Pet.class
+com\jurecki\sfgpetclinic\services\map\OwnerServiceMap.class
+com\jurecki\sfgpetclinic\services\PetService.class
+com\jurecki\sfgpetclinic\model\PetType.class
+com\jurecki\sfgpetclinic\services\VetService.class
+com\jurecki\sfgpetclinic\services\map\AbstractMapService.class
+com\jurecki\sfgpetclinic\services\map\VetServiceMap.class
+com\jurecki\sfgpetclinic\services\CrudService.class
+com\jurecki\sfgpetclinic\model\BaseEntity.class
+com\jurecki\sfgpetclinic\services\map\PetServiceMap.class

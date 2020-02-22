@@ -1,5 +1,14 @@
 C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\model\PetType.java
+C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\services\OwnerService.java
+C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\services\PetService.java
 C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\model\Owner.java
+C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\services\map\VetServiceMap.java
+C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\model\Person.java
+C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\services\VetService.java
+C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\services\map\AbstractMapService.java
+C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\services\CrudService.java
+C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\model\BaseEntity.java
 C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\model\Pet.java
 C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\model\Vet.java
-C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\model\Person.java
+C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\services\map\PetServiceMap.java
+C:\Users\jurecki\IdeaProjects\UdemyGuru\pet-clinic-v2\sfg-pet-clinic\pet-clinic-data\src\main\java\com\jurecki\sfgpetclinic\services\map\OwnerServiceMap.java

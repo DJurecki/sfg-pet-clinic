@@ -1,1 +1,5 @@
+com\jurecki\sfgpetclinic\bootstrap\DataLoader.class
+com\jurecki\sfgpetclinic\controllers\OwnerController.class
+com\jurecki\sfgpetclinic\controllers\IndexController.class
 com\jurecki\sfgpetclinic\SfgPetClinicApplication.class
+com\jurecki\sfgpetclinic\controllers\VetController.class
