@@ -1,6 +1,6 @@
 package com.jurecki.sfgpetclinic.services.map;
 
-import com.jurecki.sfgpetclinic.model.Speciality;
+import com.jurecki.sfgpetclinic.model.Specialty;
 import com.jurecki.sfgpetclinic.model.Vet;
 import com.jurecki.sfgpetclinic.services.SpecialtyService;
 import com.jurecki.sfgpetclinic.services.VetService;
@@ -9,11 +9,11 @@ import org.springframework.stereotype.Service;
 import java.util.Set;
 
 @Service
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
+public class VetMapService extends AbstractMapService<Vet, Long> implements VetService {
 
     private final SpecialtyService specialtyService;
 
-    public VetServiceMap(SpecialtyService specialtyService) {
+    public VetMapService(SpecialtyService specialtyService) {
         this.specialtyService = specialtyService;
     }
 
@@ -32,7 +32,7 @@ public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetS
         if(object.getSpecialities().size() > 0){
             object.getSpecialities().forEach(speciality -> {
                 if(speciality.getId() == null){
-                    Speciality savedSpeciality = specialtyService.save(speciality);
+                    Specialty savedSpeciality = specialtyService.save(speciality);
                     speciality.setId(savedSpeciality.getId());
                 }
             });

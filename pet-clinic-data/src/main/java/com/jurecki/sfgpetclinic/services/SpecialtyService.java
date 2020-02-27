@@ -1,6 +1,6 @@
 package com.jurecki.sfgpetclinic.services;
 
-import com.jurecki.sfgpetclinic.model.Speciality;
+import com.jurecki.sfgpetclinic.model.Specialty;
 
-public interface SpecialtyService extends CrudService<Speciality, Long> {
+public interface SpecialtyService extends CrudService<Specialty, Long> {
 }
